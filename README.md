@@ -34,6 +34,16 @@ codigos/
         └── script.js           # Lógica asíncrona, manipulación del DOM y Chart.js
 ```
 
+
+## 🔗 Enlaces
+
+- Repositorio
+  - https://github.com/vn-vrgs/todoList.git
+
+- Desplegar
+  - https://vn-vrgs.github.io/todoList/
+
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas
