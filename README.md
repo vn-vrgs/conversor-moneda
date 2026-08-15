@@ -1,3 +1,6 @@
+
+# Desafio 6 - Conversion Moneda Nacional
+
 # 💱 Conversor de Monedas Nacional
 
 Aplicación web responsive moderna y profesional desarrollada en **HTML5**, **CSS3**, **JavaScript ES6+** y **Bootstrap 5**, que permite realizar la conversión de divisas a partir de un monto en Pesos Chilenos (CLP) consumiendo en tiempo real la API pública de [mindicador.cl](https://mindicador.cl/) y visualizando un gráfico interactivo con el historial de los últimos 10 días mediante **Chart.js**.
@@ -38,7 +41,7 @@ codigos/
 ## 🔗 Enlaces
 
 - Repositorio
-  - https://github.com/vn-vrgs/todoList.git
+  - https://github.com/vn-vrgs/conversor-moneda.git
 
 - Desplegar
   - https://vn-vrgs.github.io/todoList/
